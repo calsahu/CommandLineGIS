@@ -1,7 +1,9 @@
 # CommandLineGIS
-Course projects/materials for course on integrating coding and geographic information systems.
+Here are some of my course projects/materials for course on integrating coding and geographic information systems.
 
-Here's a sample map from my class, which my professor Will Payne set up:
-<iframe src="nj_dispensaries.html" height="500" width="500"></iframe>
+The NYC Squirrel Census published data on squirrel sightings in March 2020.
+https://www.thesquirrelcensus.com/data 
+Here's a map visualizing some stories!
 
-You can explore this map [as its own webpage here!] (nj_dispensaries.html). 
+<iframe src="squirrel_map_NYC (1).html" height="500" width="500"></iframe>
+
